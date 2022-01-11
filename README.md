@@ -3,6 +3,8 @@
 <!--
 **changsub214/changsub214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+공사중 1월 말까지는 완료 에정
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
