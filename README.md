@@ -3,14 +3,6 @@
 <!--
 **changsub214/changsub214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-공사중...1월 말까진 공사완료 예정
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changsub00)](https://solved.ac/changsub00/)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=changsub214&show_icons=true&theme=github_dark)](https://github.com/changsub214/github-readme-stats)
-
-
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-sqaure&logo=c&logoColor=white">
 
 Here are some ideas to get you started:
 
@@ -23,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+공사중...1월 말까진 공사완료 예정
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=changsub00)](https://solved.ac/changsub00/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=changsub214&show_icons=true&theme=github_dark)](https://github.com/changsub214/github-readme-stats)
+
+
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-sqaure&logo=c&logoColor=white">
