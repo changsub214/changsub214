@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-sqaure&logo=c&logoColor=white">
+
+learning..
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-sqaure&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-sqaure&logo=Amazon AWS&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-sqaure&logo=MySQL&logoColor=white">
