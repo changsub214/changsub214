@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+11.01.22 (2022.01.11) ~
+I'm going to start taking care of myself
 
 공사중...1월 말까진 공사완료 예정
 
