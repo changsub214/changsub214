@@ -24,7 +24,6 @@ I'm going to start taking care of myself
 :restroom: : :boy:   
 :earth_americas: : :kr:   
   :+1: : :headphones: :running:   
-:e-mail: : changsub214@naver.com     
   :school: : HanKuk University of Foreign Studies (*Hufs*)   
 :mortar_board: :  Undergraduate course   
 :blue_book: : Information & Communication Engineering   
