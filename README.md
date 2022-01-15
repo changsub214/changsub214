@@ -54,7 +54,11 @@ learning..<br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-sqaure&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-sqaure&logo=Amazon AWS&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-sqaure&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=JavaScript&logoColor=white">
 
+<br/>
+  I'm planning... <br/>
+  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=flat-sqaure&logo=Microsoft Azure&logoColor=white">
 
   
 <br/><br/>
