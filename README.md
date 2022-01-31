@@ -14,7 +14,7 @@
   11.01.22 (2022.01.11) ~
 I'm going to start taking care of myself
 
-공사중...1월 말까진 공사완료 예정
+공사중...2월 말까진 공사완료 예정
   <br/>
 
   
@@ -29,17 +29,7 @@ I'm going to start taking care of myself
 :mortar_board: :  Undergraduate course   
 :blue_book: : Information & Communication Engineering   
 
-  <br/><br/>
-### Additional Information
 
-  
- 🔭 I’m currently working on *studying algorithm*.  
- 🌱 I’m currently learning **Node.js** & *MySQL* & *AWS*.   
- 🤔 I’m looking for help with studying server :sunglasses:    
- 💬 Ask me about *What's your favorite song?* :/    
- 📫 How to reach me: *just send e-mail!!* :)     
- ⚡ Fun fact: He is...  <-- ~~housekeeper~~ :sleepy:    
-    
                            
                            
 <br/><br/> 
