@@ -11,7 +11,7 @@
   <br/>
   
 ##  :crescent_moon:    
-  11.01.22 (2022.01.11) ~
+  01.11.22 (2022.01.11) ~
 I'm going to start taking care of myself
 
 공사중...2월 말까진 공사완료 예정
